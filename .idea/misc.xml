@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/SpringMVCJava3" />
-    <file type="web" url="file://$PROJECT_DIR$/SpringMVCStep1" />
-    <file type="web" url="file://$PROJECT_DIR$/SpringMVCxml2" />
+    <file type="web" url="file://$PROJECT_DIR$/a1_SpringMVCStep1" />
+    <file type="web" url="file://$PROJECT_DIR$/a2_SpringMVCxml2" />
+    <file type="web" url="file://$PROJECT_DIR$/a3_SpringMVCJava3" />
+    <file type="web" url="file://$PROJECT_DIR$/a4_URLMapping4" />
+    <file type="web" url="file://$PROJECT_DIR$/a5_RequestMethod5" />
+    <file type="web" url="file://$PROJECT_DIR$/a6_GetParameter6" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -12,10 +15,16 @@
         <option value="$PROJECT_DIR$/SpringMVCStep1/pom.xml" />
         <option value="$PROJECT_DIR$/SpringMVCxml2/pom.xml" />
         <option value="$PROJECT_DIR$/SpringMVCJava3/pom.xml" />
+        <option value="$PROJECT_DIR$/URLMapping4/pom.xml" />
+        <option value="$PROJECT_DIR$/RequestMethod5/pom.xml" />
+        <option value="$PROJECT_DIR$/a5_RequestMethod5/pom.xml" />
+        <option value="$PROJECT_DIR$/a1_SpringMVCStep1/pom.xml" />
+        <option value="$PROJECT_DIR$/a2_SpringMVCxml2/pom.xml" />
+        <option value="$PROJECT_DIR$/a6_GetParameter6/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
