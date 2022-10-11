@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MVCLecture.iml" filepath="$PROJECT_DIR$/MVCLecture.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringMVCJava3/a3_SpringMVCJava3.iml" filepath="$PROJECT_DIR$/SpringMVCJava3/a3_SpringMVCJava3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/URLMapping4/a4_URLMapping4.iml" filepath="$PROJECT_DIR$/URLMapping4/a4_URLMapping4.iml" />
     </modules>
   </component>
 </project>

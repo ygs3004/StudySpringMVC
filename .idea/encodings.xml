@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/a10_FormCustomTag10/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a10_FormCustomTag10/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/a6_GetParameter6/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/a6_GetParameter6/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a7_GetParameter7Object/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a7_GetParameter7Object/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a8_ViewResolver8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a8_ViewResolver8/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a9_CommandObject9/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a9_CommandObject9/src/main/resources" charset="UTF-8" />
   </component>
 </project>
