@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="a21_ApplicationScope21" />
         <module name="a4_URLMapping4" />
+        <module name="a20_ApplicationScope20" />
         <module name="a5_RequestMethod5" />
         <module name="a13_RedirectForward13" />
         <module name="a3_SpringMVCJava3" />
@@ -15,15 +17,21 @@
         <module name="a14_RequestScope14" />
         <module name="a11_FormElement11" />
         <module name="a12_FormElement12" />
+        <module name="a18_SessionScopeBeanJava18" />
         <module name="a7_GetParameter7Object" />
         <module name="a8_ViewResolver8" />
         <module name="a9_CommandObject9" />
         <module name="a1_SpringMVCStep1" />
         <module name="a2_SpringMVCxml2" />
+        <module name="a19_SessionoScopeBeanXml19" />
+        <module name="a16_RequestScopeBeanXml" />
+        <module name="a15_RequestScopeBeanJava" />
+        <module name="a17_SessionScope17" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="a13_RedirectFoward13" target="1.8" />
+      <module name="a17_SessionScop17" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

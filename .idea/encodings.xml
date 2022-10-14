@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/a10_FormCustomTag10/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/a10_FormCustomTag10/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/a11_FormElement11/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/a11_FormElement11/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/a13_RedirectForward13/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/a13_RedirectForward13/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/a13_RedirectFoward13/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/a13_RedirectFoward13/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/a14_RequestScope14/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/a14_RequestScope14/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a16_RequestScopeBeanXml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a16_RequestScopeBeanXml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a17_SessionScop17/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a17_SessionScop17/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a18_SessionScopeBeanJava18/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a18_SessionScopeBeanJava18/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a19_SessionoScopeBeanXml19/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a19_SessionoScopeBeanXml19/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a20_ApplicationScope20/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a20_ApplicationScope20/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a21_ApplicationScope21/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a21_ApplicationScope21/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/a6_GetParameter6/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/a6_GetParameter6/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/a7_GetParameter7Object/src/main/java" charset="UTF-8" />

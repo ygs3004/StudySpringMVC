@@ -81,3 +81,35 @@ FormCustomTag10
 Spring 에서는 <form:태그명> 형태로 되어있는 커스텀 태그 제공
 Form 커스텀 태그를 활용하면 Model 객체에 들어있는 값을 form 요소에 주입시킬 수 있다.
 회원 정보 수정 등 정보 수정페이지를 구성할 때 요긴하게 사용할 수 있다.
+
+새로운 요청이 발생해 응답 결과가 브라우저로 전달 될 떄까지 요청 정보가 담겨있는 Request 객체를 사용할 수 있다. 이 때 Request객체의 사용범위를 RequestScope라고 한다.
+RequestScopeBeanJava15
+RequestScopeBeanXml16
+Bean을 정의할 때 request scope로 정의하면 요청이 발생할 때 마다 Bean 객체가 생성되어 자동으로 주입된다.
+주입된 Bean은 요청 발생시 주입만 이루어지는 것이므로 request 영역에 저장되지는 않는다
+Xml로 bean을 설정하고 byName으로 주입 받았을 경우에만 request 영역에 자동 저장된다.
+Java방식은 @RequestScope를 사용
+XML방식은 bean을 정의할 떄 scope = "request"로 설정한다
+
+SessionScope17
+브라우저가 최초의 요청을 발생시키고 브라우저를 닫을 때까지를 SessionScope라고 한다
+Session 영역에 저장되어 있는 객체를 사용하고자 할 때 메서드의 매개변수로 @SessionAttribute를 설정하면
+Session 영역에 저장되어 있는 Bean을 주입 받을 수 있다
+@ModelAttribute를 통해 주입 받은 Bean은 자동으로 Request 영역에 저장되고 Request 영역으로부터 주입을 받는다
+@ModelAttribute를 통해 주입받은 Bean을 @SessionAttribute로 지정해 놓으면 Request영역이 아닌 Session 영역으로 부터 주입 받을 수 있다.
+이 떄 @ModelAttribute를 활용하여 객체를 생성해 반환하는 메서드를 반드시 작성해 줘야한다.
+session 영역에 데이터를 저장하게 되면 SessionScope 내에서 사용이 가능
+
+SessionScopeBeanJava18
+SessionScopeBeanXml19
+Bean을 정의할 때 SessionScope로 정의하면 브라우저가 서버에 최초로 요청할 때 Bean 객체가 주입된다.
+주입된 Bean은 주입만 이루어지는 것이므로 Session 영역에 저장되지 않는다.
+@Java : @SessionScope
+XML : scope="session"
+
+ApplicationScope20
+서버가 가동될 때 부터 서버가 종료될 때까지 범위를 Application Scope라고 한다
+ServletContext라는 클래스 타입의 객체로 관리된다
+ServletContext에 저장된 데이터나 객체는 서버가 종료될 떄까지 웹브라우저와 상관없이 사용된다.
+ServletContext는 HttpServletRequest 객체로부터 얻는다.
+Controller에서 주입받을수 있다.

@@ -7,7 +7,14 @@
     <file type="web" url="file://$PROJECT_DIR$/a12_FormElement12" />
     <file type="web" url="file://$PROJECT_DIR$/a13_RedirectForward13" />
     <file type="web" url="file://$PROJECT_DIR$/a14_RequestScope14" />
+    <file type="web" url="file://$PROJECT_DIR$/a15_RequestScopeBeanJava" />
+    <file type="web" url="file://$PROJECT_DIR$/a16_RequestScopeBeanXml" />
+    <file type="web" url="file://$PROJECT_DIR$/a17_SessionScope17" />
+    <file type="web" url="file://$PROJECT_DIR$/a18_SessionScopeBeanJava18" />
+    <file type="web" url="file://$PROJECT_DIR$/a19_SessionoScopeBeanXml19" />
     <file type="web" url="file://$PROJECT_DIR$/a1_SpringMVCStep1" />
+    <file type="web" url="file://$PROJECT_DIR$/a20_ApplicationScope20" />
+    <file type="web" url="file://$PROJECT_DIR$/a21_ApplicationScope21" />
     <file type="web" url="file://$PROJECT_DIR$/a2_SpringMVCxml2" />
     <file type="web" url="file://$PROJECT_DIR$/a3_SpringMVCJava3" />
     <file type="web" url="file://$PROJECT_DIR$/a4_URLMapping4" />
@@ -39,6 +46,14 @@
         <option value="$PROJECT_DIR$/a12_FormElement12/pom.xml" />
         <option value="$PROJECT_DIR$/a13_RedirectForward13/pom.xml" />
         <option value="$PROJECT_DIR$/a14_RequestScope14/pom.xml" />
+        <option value="$PROJECT_DIR$/a15_RequestScopeBeanJava/pom.xml" />
+        <option value="$PROJECT_DIR$/a16_RequestScopeBeanXml/pom.xml" />
+        <option value="$PROJECT_DIR$/a17_SessionScope17/pom.xml" />
+        <option value="$PROJECT_DIR$/SessionScopeBeanJava18/pom.xml" />
+        <option value="$PROJECT_DIR$/a19_SessionoScopeBeanXml19/pom.xml" />
+        <option value="$PROJECT_DIR$/a18_SessionScopeBeanJava18/pom.xml" />
+        <option value="$PROJECT_DIR$/a20_ApplicationScope20/pom.xml" />
+        <option value="$PROJECT_DIR$/a21_ApplicationScope21/pom.xml" />
       </list>
     </option>
   </component>
