@@ -13,8 +13,12 @@
     <file type="web" url="file://$PROJECT_DIR$/a18_SessionScopeBeanJava18" />
     <file type="web" url="file://$PROJECT_DIR$/a19_SessionoScopeBeanXml19" />
     <file type="web" url="file://$PROJECT_DIR$/a1_SpringMVCStep1" />
-    <file type="web" url="file://$PROJECT_DIR$/a20_ApplicationScope20" />
-    <file type="web" url="file://$PROJECT_DIR$/a21_ApplicationScope21" />
+    <file type="web" url="file://$PROJECT_DIR$/a20_ApplicationScope20Java" />
+    <file type="web" url="file://$PROJECT_DIR$/a21_ApplicationScope21XML" />
+    <file type="web" url="file://$PROJECT_DIR$/a22_Cookie22" />
+    <file type="web" url="file://$PROJECT_DIR$/a22_Properties22" />
+    <file type="web" url="file://$PROJECT_DIR$/a23_MessageJava23" />
+    <file type="web" url="file://$PROJECT_DIR$/a24_MessageXML24" />
     <file type="web" url="file://$PROJECT_DIR$/a2_SpringMVCxml2" />
     <file type="web" url="file://$PROJECT_DIR$/a3_SpringMVCJava3" />
     <file type="web" url="file://$PROJECT_DIR$/a4_URLMapping4" />
@@ -54,6 +58,13 @@
         <option value="$PROJECT_DIR$/a18_SessionScopeBeanJava18/pom.xml" />
         <option value="$PROJECT_DIR$/a20_ApplicationScope20/pom.xml" />
         <option value="$PROJECT_DIR$/a21_ApplicationScope21/pom.xml" />
+        <option value="$PROJECT_DIR$/a20_ApplicationScope20Java/pom.xml" />
+        <option value="$PROJECT_DIR$/a21_ApplicationScope21XML/pom.xml" />
+        <option value="$PROJECT_DIR$/a21_Cookie21/pom.xml" />
+        <option value="$PROJECT_DIR$/a22_Cookie22/pom.xml" />
+        <option value="$PROJECT_DIR$/a22_Properties22/pom.xml" />
+        <option value="$PROJECT_DIR$/a23_MessageJava23/pom.xml" />
+        <option value="$PROJECT_DIR$/a24_MessageXML24/pom.xml" />
       </list>
     </option>
   </component>

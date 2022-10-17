@@ -113,3 +113,8 @@ ServletContext라는 클래스 타입의 객체로 관리된다
 ServletContext에 저장된 데이터나 객체는 서버가 종료될 떄까지 웹브라우저와 상관없이 사용된다.
 ServletContext는 HttpServletRequest 객체로부터 얻는다.
 Controller에서 주입받을수 있다.
+
+Eclipse Properties 한글 변환 문제 help =>
+http://propedit.sourceforge.jp/eclipse/updates
+http://osdn.net/projects/propedit/storage/eclipse/updates
+Property Editor
