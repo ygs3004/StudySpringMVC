@@ -13,9 +13,13 @@
         <module name="a14_RequestScope14" />
         <module name="a11_FormElement11" />
         <module name="a7_GetParameter7Object" />
+        <module name="a26_JSR-303_26" />
+        <module name="a27_JSR-380_27" />
+        <module name="a24_Validate24" />
         <module name="a2_SpringMVCxml2" />
         <module name="a22_Cookie22" />
         <module name="a16_RequestScopeBeanXml" />
+        <module name="a25_ValidationMessage25" />
         <module name="a5_RequestMethod5" />
         <module name="a3_SpringMVCJava3" />
         <module name="a10_FormCustomTag10" />

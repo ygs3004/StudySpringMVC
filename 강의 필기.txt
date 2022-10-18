@@ -118,3 +118,12 @@ Eclipse Properties 한글 변환 문제 help =>
 http://propedit.sourceforge.jp/eclipse/updates
 http://osdn.net/projects/propedit/storage/eclipse/updates
 Property Editor
+
+24 Validate24
+JSR 303 명세구격을 이용하여 유효성 검사 라이브러리 이용
+hibernate 라이브러리 hibernate validation
+Controller의 메서드에서 주입받는 Bean에 @Valid를 설정하여 유효성 검사
+BindingResult 객체를 주입 받아야한다 이 객체에는 유효성 검사를 실행한 정보가 담겨있다.
+
+25 ValidationMessage
+https://beanvalidation.org/1.0/spec/  유효성검사 메소드 예시
