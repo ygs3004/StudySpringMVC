@@ -23,7 +23,11 @@
     <file type="web" url="file://$PROJECT_DIR$/a25_ValidationMessage25" />
     <file type="web" url="file://$PROJECT_DIR$/a26_JSR-303_26" />
     <file type="web" url="file://$PROJECT_DIR$/a27_JSR-380_27" />
+    <file type="web" url="file://$PROJECT_DIR$/a28_CustomValidator28" />
+    <file type="web" url="file://$PROJECT_DIR$/a29_InterceptorJava29" />
+    <file type="web" url="file://$PROJECT_DIR$/a29_InterceptorXML29" />
     <file type="web" url="file://$PROJECT_DIR$/a2_SpringMVCxml2" />
+    <file type="web" url="file://$PROJECT_DIR$/a30_HandleException30" />
     <file type="web" url="file://$PROJECT_DIR$/a3_SpringMVCJava3" />
     <file type="web" url="file://$PROJECT_DIR$/a4_URLMapping4" />
     <file type="web" url="file://$PROJECT_DIR$/a5_RequestMethod5" />
@@ -40,39 +44,43 @@
         <option value="$PROJECT_DIR$/SpringMVCJava3/pom.xml" />
         <option value="$PROJECT_DIR$/URLMapping4/pom.xml" />
         <option value="$PROJECT_DIR$/RequestMethod5/pom.xml" />
-        <option value="$PROJECT_DIR$/a5_RequestMethod5/pom.xml" />
-        <option value="$PROJECT_DIR$/a1_SpringMVCStep1/pom.xml" />
-        <option value="$PROJECT_DIR$/a2_SpringMVCxml2/pom.xml" />
-        <option value="$PROJECT_DIR$/a6_GetParameter6/pom.xml" />
-        <option value="$PROJECT_DIR$/a4_URLMapping4/pom.xml" />
-        <option value="$PROJECT_DIR$/a3_SpringMVCJava3/pom.xml" />
-        <option value="$PROJECT_DIR$/a7_GetParameter7Object/pom.xml" />
-        <option value="$PROJECT_DIR$/a8_ViewResolver8/pom.xml" />
-        <option value="$PROJECT_DIR$/a9_CommandObject9/pom.xml" />
-        <option value="$PROJECT_DIR$/a10_FormCustomTag10/pom.xml" />
-        <option value="$PROJECT_DIR$/a11_FormElement11/pom.xml" />
-        <option value="$PROJECT_DIR$/a12_FormElement12/pom.xml" />
-        <option value="$PROJECT_DIR$/a13_RedirectForward13/pom.xml" />
-        <option value="$PROJECT_DIR$/a14_RequestScope14/pom.xml" />
-        <option value="$PROJECT_DIR$/a15_RequestScopeBeanJava/pom.xml" />
-        <option value="$PROJECT_DIR$/a16_RequestScopeBeanXml/pom.xml" />
-        <option value="$PROJECT_DIR$/a17_SessionScope17/pom.xml" />
         <option value="$PROJECT_DIR$/SessionScopeBeanJava18/pom.xml" />
-        <option value="$PROJECT_DIR$/a19_SessionoScopeBeanXml19/pom.xml" />
-        <option value="$PROJECT_DIR$/a18_SessionScopeBeanJava18/pom.xml" />
         <option value="$PROJECT_DIR$/a20_ApplicationScope20/pom.xml" />
         <option value="$PROJECT_DIR$/a21_ApplicationScope21/pom.xml" />
-        <option value="$PROJECT_DIR$/a20_ApplicationScope20Java/pom.xml" />
-        <option value="$PROJECT_DIR$/a21_ApplicationScope21XML/pom.xml" />
         <option value="$PROJECT_DIR$/a21_Cookie21/pom.xml" />
-        <option value="$PROJECT_DIR$/a22_Cookie22/pom.xml" />
-        <option value="$PROJECT_DIR$/a22_Properties22/pom.xml" />
-        <option value="$PROJECT_DIR$/a23_MessageJava23/pom.xml" />
-        <option value="$PROJECT_DIR$/a24_MessageXML24/pom.xml" />
-        <option value="$PROJECT_DIR$/a24_Validate24/pom.xml" />
-        <option value="$PROJECT_DIR$/a25_ValidationMessage25/pom.xml" />
-        <option value="$PROJECT_DIR$/a26_JSR-303_26/pom.xml" />
         <option value="$PROJECT_DIR$/a27_JSR-380_27/pom.xml" />
+        <option value="$PROJECT_DIR$/a26_JSR-303_26/pom.xml" />
+        <option value="$PROJECT_DIR$/a25_ValidationMessage25/pom.xml" />
+        <option value="$PROJECT_DIR$/a24_Validate24/pom.xml" />
+        <option value="$PROJECT_DIR$/a24_MessageXML24/pom.xml" />
+        <option value="$PROJECT_DIR$/a23_MessageJava23/pom.xml" />
+        <option value="$PROJECT_DIR$/a22_Properties22/pom.xml" />
+        <option value="$PROJECT_DIR$/a28_CustomValidator28/pom.xml" />
+        <option value="$PROJECT_DIR$/a22_Cookie22/pom.xml" />
+        <option value="$PROJECT_DIR$/a21_ApplicationScope21XML/pom.xml" />
+        <option value="$PROJECT_DIR$/a20_ApplicationScope20Java/pom.xml" />
+        <option value="$PROJECT_DIR$/a19_SessionoScopeBeanXml19/pom.xml" />
+        <option value="$PROJECT_DIR$/a18_SessionScopeBeanJava18/pom.xml" />
+        <option value="$PROJECT_DIR$/a17_SessionScope17/pom.xml" />
+        <option value="$PROJECT_DIR$/a16_RequestScopeBeanXml/pom.xml" />
+        <option value="$PROJECT_DIR$/a15_RequestScopeBeanJava/pom.xml" />
+        <option value="$PROJECT_DIR$/a14_RequestScope14/pom.xml" />
+        <option value="$PROJECT_DIR$/a13_RedirectForward13/pom.xml" />
+        <option value="$PROJECT_DIR$/a12_FormElement12/pom.xml" />
+        <option value="$PROJECT_DIR$/a11_FormElement11/pom.xml" />
+        <option value="$PROJECT_DIR$/a10_FormCustomTag10/pom.xml" />
+        <option value="$PROJECT_DIR$/a9_CommandObject9/pom.xml" />
+        <option value="$PROJECT_DIR$/a8_ViewResolver8/pom.xml" />
+        <option value="$PROJECT_DIR$/a7_GetParameter7Object/pom.xml" />
+        <option value="$PROJECT_DIR$/a6_GetParameter6/pom.xml" />
+        <option value="$PROJECT_DIR$/a5_RequestMethod5/pom.xml" />
+        <option value="$PROJECT_DIR$/a4_URLMapping4/pom.xml" />
+        <option value="$PROJECT_DIR$/a3_SpringMVCJava3/pom.xml" />
+        <option value="$PROJECT_DIR$/a2_SpringMVCxml2/pom.xml" />
+        <option value="$PROJECT_DIR$/a1_SpringMVCStep1/pom.xml" />
+        <option value="$PROJECT_DIR$/a29_InterceptorJava29/pom.xml" />
+        <option value="$PROJECT_DIR$/a29_InterceptorXML29/pom.xml" />
+        <option value="$PROJECT_DIR$/a30_HandleException30/pom.xml" />
       </list>
     </option>
   </component>
