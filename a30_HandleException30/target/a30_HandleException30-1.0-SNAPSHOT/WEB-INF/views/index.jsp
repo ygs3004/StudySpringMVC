@@ -11,6 +11,7 @@
     <img src="image/icon-spring-framework.svg">
     <hr>
     <a href="test1">test1</a>
+    <a href="test2">test2</a>
 
 </body>
 </html>
