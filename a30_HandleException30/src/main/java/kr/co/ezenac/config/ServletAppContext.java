@@ -16,6 +16,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 //스캔할 패키지를 지정한다.
 @ComponentScan(basePackages = "kr.co.ezenac.controller")
 @ComponentScan(basePackages = "kr.co.ezenac.beans")
+@ComponentScan("kr.co.ezenac.exception")
 public class ServletAppContext implements WebMvcConfigurer {
     // Controller의 메서드가 반환하는 jsp의 이름 앞뒤에 확장자를 붙여주도록 한다.
 
