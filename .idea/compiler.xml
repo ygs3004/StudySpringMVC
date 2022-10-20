@@ -12,6 +12,8 @@
         <module name="a22_Properties22" />
         <module name="a14_RequestScope14" />
         <module name="a11_FormElement11" />
+        <module name="a32_MyBatisXml32" />
+        <module name="a33_RestfulAPI33" />
         <module name="a7_GetParameter7Object" />
         <module name="a26_JSR-303_26" />
         <module name="a27_JSR-380_27" />
@@ -31,6 +33,7 @@
         <module name="a20_ApplicationScope20Java" />
         <module name="a12_FormElement12" />
         <module name="a18_SessionScopeBeanJava18" />
+        <module name="a31_MyBatisJava31" />
         <module name="a24_MessageXML24" />
         <module name="a9_CommandObject9" />
         <module name="a8_ViewResolver8" />

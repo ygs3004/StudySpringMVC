@@ -28,6 +28,9 @@
     <file type="web" url="file://$PROJECT_DIR$/a29_InterceptorXML29" />
     <file type="web" url="file://$PROJECT_DIR$/a2_SpringMVCxml2" />
     <file type="web" url="file://$PROJECT_DIR$/a30_HandleException30" />
+    <file type="web" url="file://$PROJECT_DIR$/a31_MyBatisJava31" />
+    <file type="web" url="file://$PROJECT_DIR$/a32_MyBatisXml32" />
+    <file type="web" url="file://$PROJECT_DIR$/a33_RestfulAPI33" />
     <file type="web" url="file://$PROJECT_DIR$/a3_SpringMVCJava3" />
     <file type="web" url="file://$PROJECT_DIR$/a4_URLMapping4" />
     <file type="web" url="file://$PROJECT_DIR$/a5_RequestMethod5" />
@@ -81,6 +84,9 @@
         <option value="$PROJECT_DIR$/a29_InterceptorJava29/pom.xml" />
         <option value="$PROJECT_DIR$/a29_InterceptorXML29/pom.xml" />
         <option value="$PROJECT_DIR$/a30_HandleException30/pom.xml" />
+        <option value="$PROJECT_DIR$/a31_MyBatisJava31/pom.xml" />
+        <option value="$PROJECT_DIR$/a32_MyBatisXml32/pom.xml" />
+        <option value="$PROJECT_DIR$/a33_RestfulAPI33/pom.xml" />
       </list>
     </option>
   </component>
