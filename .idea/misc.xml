@@ -31,6 +31,8 @@
     <file type="web" url="file://$PROJECT_DIR$/a31_MyBatisJava31" />
     <file type="web" url="file://$PROJECT_DIR$/a32_MyBatisXml32" />
     <file type="web" url="file://$PROJECT_DIR$/a33_RestfulAPI33" />
+    <file type="web" url="file://$PROJECT_DIR$/a34_MVCProject34" />
+    <file type="web" url="file://$PROJECT_DIR$/a35_MemberJoinValidate35" />
     <file type="web" url="file://$PROJECT_DIR$/a3_SpringMVCJava3" />
     <file type="web" url="file://$PROJECT_DIR$/a4_URLMapping4" />
     <file type="web" url="file://$PROJECT_DIR$/a5_RequestMethod5" />
@@ -87,6 +89,8 @@
         <option value="$PROJECT_DIR$/a31_MyBatisJava31/pom.xml" />
         <option value="$PROJECT_DIR$/a32_MyBatisXml32/pom.xml" />
         <option value="$PROJECT_DIR$/a33_RestfulAPI33/pom.xml" />
+        <option value="$PROJECT_DIR$/a34_MVCProject34/pom.xml" />
+        <option value="$PROJECT_DIR$/a35_MemberJoinValidate35/pom.xml" />
       </list>
     </option>
   </component>

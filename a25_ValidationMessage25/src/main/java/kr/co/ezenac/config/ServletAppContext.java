@@ -32,7 +32,7 @@ public class ServletAppContext implements WebMvcConfigurer {
         registry.addResourceHandler("/**").addResourceLocations("/resources/");
     }
 
-    //Properties 파일을 Message로 사용하기 위한 bean
+    // Properties 파일을 Message로 사용하기 위한 bean
     // properties 파일을 Message로 등록한다.
     @Bean
     public ReloadableResourceBundleMessageSource messageSource() {

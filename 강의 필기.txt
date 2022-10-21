@@ -171,3 +171,12 @@ Global Exception Handler를 구현하면 Controller에 정의한 ExceptionHandle
 Spring MVC에서 Controller를 구성 할 때 @Controller를 사용하면 return 값은 사용할 JSP
 @RestController를 통해 return 하게 되면 그 값 자체를 브라우저로 전달하는 응답 결과로 생성(Restful API)
 자바의 객체나 리스트 등을 JSON 문서로 구성하기 위한 라이브러리
+
+Bean 정의
+@Bean : 메서드를 통해 반환하는 객체를 Bean으로 등록한다.
+@Component : 개발자가 만든 클래스의 객체를 생성하여 Bean으로 등록한다.
+@Controller : Component의 일종으로 사용자 요청에 따라 자동으로 호출되는 메서드를 가지고 있는 Bean을 등록한다.
+@RestController : Component의 일종으로 사용자 요청에 따라 자동으로 호출되는 메서드를 가지고 있는 Bean을 등록한다. Restful API 서버 구성 시 사용한다
+@ControllerAdvice : 예외가 발생했을 때 사용할 Global Exception Handler로 사용할 Bean을 등록한다.
+@Service : Controller에서 호출하는 메서드를 가지고 있는 Bean을 정의한다. @Component로 정의한 Bean과 차이는 없다
+@Repository : @Service로 정의한 Bean에서 호출하는 메서드를 가지고 있는 Bean을 정의한다. 이 Bean은 데이터베이스와 관련된 작업을 구현한다. @Component로 정의한 Bean과 차이가 없다

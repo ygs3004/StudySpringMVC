@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="a4_URLMapping4" />
+        <module name="a34_MVCProject34" />
         <module name="a23_MessageJava23" />
         <module name="a13_RedirectForward13" />
         <module name="a22_Properties22" />
@@ -27,6 +28,7 @@
         <module name="a30_HandleException30" />
         <module name="a28_CustomValidator28" />
         <module name="a5_RequestMethod5" />
+        <module name="a35_MemberJoinValidate35" />
         <module name="a10_FormCustomTag10" />
         <module name="a3_SpringMVCJava3" />
         <module name="a6_GetParameter6" />
